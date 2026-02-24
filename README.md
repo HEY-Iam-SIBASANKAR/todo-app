@@ -36,6 +36,36 @@ A fullstack Todo application built using:
 
 
 
+\## Screenshots
+
+
+
+\### Home Page
+
+!\[Home](screenshots/home.png)
+
+
+
+\### Register Page
+
+!\[Register](screenshots/register.png)
+
+
+
+\### Login Page
+
+!\[Login](screenshots/login.png)
+
+
+
+\### Dashboard
+
+!\[Dashboard](screenshots/dashboard.png)
+
+
+
+
+
 \## How to Run
 
 
