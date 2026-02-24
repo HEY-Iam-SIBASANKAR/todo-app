@@ -1,0 +1,38 @@
+body {
+    background-image: url("../public/images/banner.jpg");
+    background-size: cover;
+    height: 500px;
+    
+}
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.card {
+    transition: 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+.subtitle-text {
+    color: #000000fe;   
+    font-weight: 500;
+}
+.title-text{
+    margin-top: -300px;
+    color:#440bf0
+}
+header {
+    backdrop-filter: blur(6px);
+    background-color: ;
+}
+
+#btn-home:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease;
+}
+
+
